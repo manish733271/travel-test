@@ -1,14 +1,4 @@
-$mainBlue: #2f5572;
+@import "normalize.css";
+@import "base/_global";
+@import "modules/_large-hero";
 
-body{   
-    color: $mainBlue;
-    margin: 10px;
-}
-
-.box{
-    a {
-        display: block;
-        padding: 10px;
-        height: 10px;
-    }
-}

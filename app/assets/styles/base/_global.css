@@ -1,0 +1,9 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+}
+
+img{
+    max-width: 100%; /* Adjusting image to fit in the whole screen */
+    height: auto; /* Adjusting image to fit in the whole screen */
+}
